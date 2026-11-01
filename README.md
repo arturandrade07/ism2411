@@ -13,8 +13,9 @@ Each folder corresponds to one module.
 
 ## Modules
 
-- `week07/` — Functions: calculate_tax, apply_discount, final_price
-- `week08/` — Git: first GitHub submission
+- week07/ — Functions: calculate_tax, apply_discount, final_price
+- week08/ — Git: first GitHub submission
+- week10/ — Lists: inventory list manager
 
 ## How to Run
 
