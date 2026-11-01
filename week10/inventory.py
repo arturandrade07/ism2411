@@ -1,9 +1,13 @@
+# Self Assessment Answers
+# 1: I did not expect python to start counting from index 0. However, what really caught me by surprise was the fact
+# python can use negative indexes to start counting from the end of the list. And what really makes it surprising is
+# that it does not matter how long the list is, both of these conditions are always true. 
 
+# 2: This week, I had to gather a database of microdata on Brazil's labor force variables. These would not fit in excel,
+# so I turned it all into a python list database and am currently setting filters to isolate the data I need and convert
+# it back to excel. So, right now, Python solved an issue excel couldn't. 
 
 # Exercise 1
-from copy import error
-
-
 print("\nExercise 1\n")
 inventory = ["pen", "notebook", "stapler", "tape", "marker"]
 print(inventory)
